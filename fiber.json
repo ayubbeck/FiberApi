@@ -1,0 +1,75 @@
+[
+  {
+    "id": 0,
+    "name" : "Blackberry",
+    "image": "/public/blackberry.png",
+    "desc" : ["The blackberry is an edible fruit produced by many species ",
+              "in the Rubus genus in the Rosaceae family ",
+              "hybrids among these species within the Rubus subgenus, and ",
+              "hybrids between the Rubus and Idaeobatus subgenera."]
+  },
+  {
+    "id": 1,
+    "name" : "Raspberry",
+    "image": "/public/raspberry.png",
+    "desc" : ["The raspberry (/ˈræzˌbɛri/) is the edible fruit of a multitude ",
+              "of plant species in the genus Rubus of the rose family, most of ",
+              "which are in the subgenus Idaeobatus; the name also applies to ",
+              "these plants themselves."]
+  },
+  {
+    "id": 2,
+    "name" : "Blueberry",
+    "image": "/public/blueberry.png",
+    "desc" : ["Blueberries (Vaccinium corymbosum) are perennial flowering ",
+              "plants with indigo-colored berries."]
+  },
+  {
+    "id": 3,
+    "name" : "Pecan",
+    "image": "/public/pecan.png",
+    "desc" : ["The pecan tree is a large deciduous tree, growing to 20–40 m ",
+              "(66–131 ft) in height, rarely to 44 m (144 ft).[2] It typically ",
+              "has a spread of 12–23 m (39–75 ft) with a trunk up to 2 m (6.6 ft) diameter."]
+  },
+  {
+    "id": 4,
+    "name" : "Walnut",
+    "image": "/public/walnut.png",
+    "desc" : ["A walnut is the nut of any tree of the genus Juglans (Family Juglandaceae), ",
+              "particularly the Persian or English walnut, Juglans regia."]
+  },
+  {
+    "id": 5,
+    "name" : "Almond",
+    "image": "/public/almond.png",
+    "desc" : ["The fruit of the almond is a drupe, consisting of an outer hull and a ",
+              "hard shell with the seed, which is not a true nut, inside. Shelling ",
+              "almonds refers to removing the shell to reveal the seed."]
+  },
+  {
+    "id": 6,
+    "name" : "Bean",
+    "image": "/public/bean.png",
+    "desc" : ["A bean is a seed of one of several genera of the flowering plant ",
+              "family Fabaceae, which are used for human or animal food."]
+  },
+  {
+    "id": 7,
+    "name" : "Chickpea",
+    "image": "/public/chickpea.png",
+    "desc" : ["The chickpea or chick pea (Cicer arietinum) is a legume of the family ",
+              "Fabaceae, subfamily Faboideae.[2] [3] Its different types are variously ",
+              "known as gram,[4][5] or Bengal gram,[5] garbanzo[5] or garbanzo bean, ",
+              "as well as the Egyptian pea."]
+  },
+  {
+    "id": 8,
+    "name" : "Lentil",
+    "image": "/public/lentil.png",
+    "desc" : ["The lentil (Lens culinaris) is an edible pulse. It is a bushy ",
+              "annual plant of the legume family, known for its lens-shaped seeds. ",
+              "It is about 40 cm (16 in) tall, and the seeds grow in pods, usually ",
+              "with two seeds in each."]
+  }
+]

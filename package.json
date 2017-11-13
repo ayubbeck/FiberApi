@@ -1,0 +1,14 @@
+{
+  "name": "FiberApi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node fiber.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
