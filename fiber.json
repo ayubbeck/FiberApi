@@ -3,8 +3,8 @@
     "id": 0,
     "name" : "Blackberry",
     "image": "/public/blackberry.png",
-    "desc" : ["The blackberry is an edible fruit produced by many species ",
-              "in the Rubus genus in the Rosaceae family ",
+    "desc" : ["The blackberry is an edible fruit produced by many ",
+              "species in the Rubus genus in the Rosaceae family ",
               "hybrids among these species within the Rubus subgenus, and ",
               "hybrids between the Rubus and Idaeobatus subgenera."],
     "nutritionFacts": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 9,
     "name" : "Raspberry",
     "image": "/public/raspberry.png",
     "desc" : ["The raspberry (/ˈræzˌbɛri/) is the edible fruit of a multitude ",
